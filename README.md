@@ -1,5 +1,5 @@
 # DOWN QUARK
-[D]istract[o]r [w]ith rei[n]forcement learning QUARK  
+[D]istract[o]r generate [w]ith rei[n]forcement learning QUARK  
 This is a variant of the paper ["Quark: Controllable Text Generation with Reinforced Unlearning"](https://arxiv.org/abs/2205.13636) (NeurIPS 2022)
 
 ## Training
